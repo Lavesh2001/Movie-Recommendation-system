@@ -1,4 +1,8 @@
 # Movie-Recommendation-systemimport numpy as np
+# In[57]:
+
+
+import numpy as np
 import pandas as pd
 import ast
 
@@ -361,3 +365,4 @@ pickle.dump(similarity,open('similarity.pkl','wb'))
 
 
 # In[ ]:
+
